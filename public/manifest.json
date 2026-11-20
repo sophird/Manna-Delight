@@ -1,0 +1,14 @@
+{
+  "short_name": "Manna",
+  "name": "Manna Delight",
+  "description": "Freshly brewed coffee, pastries and sweet treats.",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fbf5d8",
+  "theme_color": "#253583"
+}
